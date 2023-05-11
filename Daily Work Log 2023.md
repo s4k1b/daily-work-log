@@ -476,4 +476,9 @@ May 09, 2023
 
 May 10, 2023
 ------------
-- 
+- Add policy details in policy report block in ui-modules
+- Add policy violations
+
+May 11, 2023
+------------
+-
