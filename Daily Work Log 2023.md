@@ -490,6 +490,13 @@ May 12, 2023
 - Add tooltips for violation list in ui-modules
 - Add gatekeeper cluster level and namespace level report ui in ui-modules
 
-May 13, 2023
+-----------------------------------------------------------------------------------------------------------------------------------
+
+May 16, 2023
+------------
+- Add banner to show no constraints if the constraint list is empty in ui-modules
+- Add pagination feature to violation list and fix maximum height to constraint list in ui-modules
+
+May 17, 2023
 ------------
 -
