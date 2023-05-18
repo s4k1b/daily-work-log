@@ -499,4 +499,9 @@ May 16, 2023
 
 May 17, 2023
 ------------
+- Move policy report logic to composable in ui-modules
+- Integrate gatekeeper report components in cluster-ui
+
+May 18, 2023
+------------
 -
