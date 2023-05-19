@@ -504,4 +504,9 @@ May 17, 2023
 
 May 18, 2023
 ------------
+- Update complete usermenu api call to generate complete cluster resources for both kubedb ui and cluster ui in ui-modules
+- Fixing bug in implementation of policy report in kubedb-ui
+
+May 19, 2023
+------------
 -
