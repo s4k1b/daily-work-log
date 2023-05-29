@@ -509,4 +509,40 @@ May 18, 2023
 
 May 19, 2023
 ------------
+- Fix bug in implementation of policy report in kubedb-ui
+- Update cve report test in cluster-ui
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+May 22, 2023
+------------
+- Platform meeting
+- Test and report bug on cluster-ui import and database create flow
+- Upgrade ui-builder to node 18
+
+May 23, 2023
+------------
+- Migrate ui-modules, cluster-ui and kubedb-ui to node 18
+- WIP: Migrate platform-ui to node 18
+
+May 24, 2023
+------------
+- Migrate platform-ui, selfhost-ui, learn-ui to node 18
+- Meeting about future work
+- Scaffold new vue project for billing ui
+
+May 25, 2023
+------------
+- Add linting, styling and vscode settings in billing-ui
+- Get stylelint working, add our design system in billing-ui
+
+May 26, 2023
+------------
+- Add topbar and sidebar to billing ui, add routes and vuex
+- Fix grafana dashboard theme and cve report api calls in kubedb-ui and cluster-ui
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+May 29, 2023
+------------
 -
