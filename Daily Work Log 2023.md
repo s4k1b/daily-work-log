@@ -545,4 +545,34 @@ May 26, 2023
 
 May 29, 2023
 ------------
+- WIP: Adding user authentication in billing-ui
+
+May 30, 2023
+------------
+- Add user authentication and user dropdown in navbar in billing ui
+- Update design system vue 3 branch
+- Report various issues to Masud and Arnob
+
+May 31, 2023
+------------
+- Add sidebar option highlight on route change in billing-ui
+- Handover billing ui depelopment over to Nihal
+- Review everyone's work
+- Setup console-demo cluster for local ui development
+
+June 01, 2023
+-------------
+- Setup console-demo cluster again for local ui developement with the help of masud
+- Review everyone's work
+- Research on serving multiple vue apps under the same domain
+
+June 02, 2023
+-------------
+- Finish research on serving multiple vue apps under the same domain
+- Start reading vitepress documentation
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+June 05, 2023
+------------
 -
