@@ -575,4 +575,72 @@ June 02, 2023
 
 June 05, 2023
 ------------
+- Research on vitepress
+- Platform Engineering Meeting
+- Review everyone's work
+
+June 06, 2023
+-------------
+- Scaffold bytebuilders docs project using vitepress.
+- Review everyone's work
+
+June 08, 2023
+-------------
+- Add typescript and linting support to docs project
+- Review everyone's work and assist theme
+
+June 09, 2023
+-------------
+- Add page links and page metas to docs website
+- Move docs to src folder
+- WIP: Debug typescript error from ui-modules
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+June 13, 2023
+------------
+- Move components folder to vitepress theme folder
+- Add useFetch custom for api calls, also add pinia
+
+June 14, 2023
+-------------
+- Add user store, read user store from docs
+- Add user dropdown, login logout feature
+
+June 15, 2023
+-------------
+- Add i18n support and language switching mechanism to docs ui
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+June 19, 2023
+------------
+- Platform engineering meeting
+- Review everyone's work
+- Review vue vitepress docs implementation
+
+June 20, 2023
+-------------
+- WIP: Working on integrating docs sidebar
+- Work with Nihal and Riyad separately to assist in solving problems
+- Review work
+
+June 21, 2023
+-------------
+- Add sidebar config, show sidebar based on config
+- Review work and bug fixes
+
+June 22, 2023
+-------------
+- And language switching support to sidebar links in docs
+- Fix sidebar bugs and typings fix in docs
+
+June 23, 2023
+-------------
+- Add document outline as right sidebar
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+June 26, 2023
+------------
 -
