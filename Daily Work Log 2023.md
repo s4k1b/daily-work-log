@@ -654,6 +654,33 @@ June 27, 2023
 
 July 03, 2023
 -------------
+- Platform engineering meeting
+- Read meilisearch docs and test implementation
+- Review kubedb website docs meilisearch implementation
+- Review test pr in cluster ui
+
+July 04, 2023
+-------------
+- Add meilisearch configuration in theme, integrate meilisearch api calls and search bar
+
+July 05, 2023
+-------------
+- Add footer navigation for docs pages in docs-ui
+- Meeting abou opcenter ui and JMAP
+
+July 06, 2023
+-------------
+- Start reading JMAP client docs
+
+July 07, 2023
+-------------
+- Test and report issues for elasticsearch, mysql, redis create and details pages
+- JMAP client docs
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+July 10, 2023
+-------------
 -
 
 
