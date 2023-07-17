@@ -681,6 +681,36 @@ July 07, 2023
 
 July 10, 2023
 -------------
+- Further test kubedb-ui elasticsearch grafana graphs and insights
+- Sohonet meeting
+- Make announcement / news section in platform ui home page client only
+
+July 11, 2023
+-------------
+- Move long running task component from design system to ui-modules
+- Show starting tasks after successfully completing the long running api call and before receiving any message
+- Update the database version update opsrequest for all databases in ui-wizards, replace upgrade with updateVersion
+
+July 12, 2023
+-------------
+- Update ui-modules, which contains long running tasks modal, replace all design system references of long running tasks with references from ui-modules
+- Test redis database opsrequest with new ui-wizard
+- Help others with their task
+
+July 13, 2023
+-------------
+- Look into the caching issue in cluster-ui sidebar update
+- Fix ctag not updating after sidebar config update request in ui-modules, fixes sidebar update caching issue
+
+July 14, 2023
+-------------
+- Add logic to clear render api cache, also fix type error for axios types in ui-modules
+- Update cluster-ui and kubedb-ui with new ui-modules to fix the caching issues
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+July 17, 2023
+-------------
 -
 
 
