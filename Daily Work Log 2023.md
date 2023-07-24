@@ -711,6 +711,40 @@ July 14, 2023
 
 July 17, 2023
 -------------
+- Fix import flow long running task modal not showing error card when initial api fails in cluster-ui
+- Fix postgres vertical scaling opsrequest in ui-wizards
+
+July 18, 2023
+-------------
+- Fix postgres grafana dashboard link issue, change variable for grafana dashbboards in resource-metadata
+- Review rancher managed cluster import flow by zubayer
+
+July 19, 2023
+-------------
+- Add firecracker gh runner to platform-ui
+- Review and merge all rancher related PRs in cluster-ui and platform-ui
+- Deploy cluster-ui and platoform-ui to appscode.ninja
+- Review and merge billing-ui latest pr to master
+- Fix type errors in billing-ui and ui-modules
+- Deploy billing-ui to appscode.ninja
+
+July 20, 2023
+-------------
+- Fix github ci errors for billing ui and deploy it
+- Fix refresh button caching issue in ui-builder
+- Update ui-builder and ui-modules in cluster-ui and kubedb-ui and deploy theme
+
+July 21, 2023
+--------------
+- Review new design system implementation of kubedb-ui, request further changes
+- Review and fix cluster-ui database create tests
+- Look into the apache style server logs for nuxt issue
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+July 24, 2023
+-------------
 -
+
 
 
