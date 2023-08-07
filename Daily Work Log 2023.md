@@ -744,6 +744,67 @@ July 21, 2023
 
 July 24, 2023
 -------------
+- Try to setup apache james jmap server running in local machine
+- Review kubedb-ui new design implementation
+- Review test code by topoti
+
+July 25, 2023
+-------------
+- Work on controlling table column widths from resource-metadata
+- Review other's works
+
+July 26, 2023
+-------------
+- Add feature to control table column widths from resource column definitions
+- Look into the feature set ui jsons
+
+July 27, 2023
+-------------
+- Look into the featureset ui jsons
+- Meeting about feature blocks
+- Meeting with riyad about platform ui
+- Review everyone's work and help theme
+
+July 28, 2023
+-------------
+- Platform ui update meeting
+- Review and release Kubedb ui with new design
+- Look into the table column width issue
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+July 31, 2023
+-------------
+- Platform planning meeting
+- Fix table column width issue in ui-modules and design-system
+- Replease and deploy kubedb-ui and cluster-ui
+
+August 01, 2023
+---------------
+- Fix build issue in docs-ui, also change base url to /docs/
+- Show error div with error message if the list api fails in cluster-ui resource list page
+
+August 02, 2023
+---------------
+- Add sitemap to docs ui
+- Add 404 page with custom header in docs ui
+- Review and help others
+
+August 03, 2023
+---------------
+- Remove content from 404 page in docs ui
+- Ui Issues meeting
+- Look into the docker image building issue in platform ui nuxt 3
+
+August 04, 2023
+---------------
+- Fix docker image build issue in nuxt 3
+- Deploy latest platform ui in appscode.ninja
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+August 07, 2023
+---------------
 -
 
 
