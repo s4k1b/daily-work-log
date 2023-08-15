@@ -805,7 +805,40 @@ August 04, 2023
 
 August 07, 2023
 ---------------
+- Fix cluster name update api issue, use username from user composable in cluster-ui
+- Fix vaultserver ui jsons username undefined issue in ui-wizards
+- Review and merge private cluster import pr in cluster-ui
+
+August 08, 2023
+---------------
+- Review gke cluster create pr
+- Fix cluster switcher issues in kubedb-ui and cluster-ui
+- Add apache style logging in platform-ui server sidebar
+
+August 09, 2023
+---------------
+- WIP: Work on fixing pagination bug in design-system
+- Review license proxy server pr by zubair
+- Add ui jsons for managed db feature in ui-wizards
+
+August 10, 2023
+---------------
+- Fix pagination comopnent in cluster-ui and kubedb-ui
+- Review and merge prs
+- Deploy to ninja
+
+August 11, 2023
+---------------
+- Review and merge everyone's work
+- Deploy to appscode ninja
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+August 14, 2023
+---------------
+- Platform engineering meeting
+- Start working on billing ui binding clusters to contracts
+
+August 15, 2023
+---------------
 -
-
-
-
