@@ -841,4 +841,220 @@ August 14, 2023
 
 August 15, 2023
 ---------------
+- Integrate cluster binding, unbinding, issue license apis in billing ui
+
+August 16, 2023
+---------------
+- Add radio element in license proxy page, integrate license proxy api
+- ntegrate generate license proxy server commands apis in billing-ui
+
+August 17, 2023
+---------------
+- Finalize billing-ui and publish it
+- Review and help others
+
+August 18, 2023
+---------------
+- Finalize billing-ui review changes and publish
+- Review and merge others works
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+August 22, 2023
+---------------
+- Fix billing-ui document upload
+- Disable contract with no clusters in billing ui license proxy form
+- Review and merging work
+
+August 23, 2023
+---------------
+- Work on various ui issues
+- Review and merge various prs
+
+August 24, 2023
+---------------
+- ui-wizard schema validation issue
+- Review and merge others work
+
+August 25, 2023
+---------------
+- Work on ui-wizard schema validation issue
+- Platform rework meeting
+- Review work
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+August 28, 2023
+---------------
+- Platform planning meeting
+- Add cluster select option in bind cluster modal in billing ui
+- Review merge and deploy work
+
+August 29, 2023
+---------------
+- Fix vue-openapi-form monaco editor not loading issue
+- Review work
+
+August 30, 2023
+---------------
+- Work on vue-openapi-form issue regarding key-value input form
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+September 04, 2023
+------------------
+- Fix various bugs in vue-openapi-form
+- Review work
+
+September 05, 2023
+------------------
+- Fix issues with key value input form and array input form in vue-openapi-form
+- Use new vue-openapi-form in cluster-ui to test things
+- Review work
+
+September 06, 2023
+------------------
+- Merge vue-openapi-form to master
+- Call resource details apis after edit operation in cluster-ui
+- Review work
+
+September 07, 2023
+------------------
+- Work on preset changes in kubedb-ui
+- Update the new vue-openapi-form in cluster-ui
+- Release the uis
+- review work
+
+September 08, 2023
+------------------
+- Add preset changes to cluster-ui
+- Review work
+- Merge vue-openapi-form, ui-builder, ui-modules and design system to master
+- Retag and release uis
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+September 11, 2023
+------------------
+- Update vue-openapi-form, ui-builder and ui-modules in cluster-ui and kubedb-ui
+- Review work
+
+September 12, 2023
+------------------
+- Review and Release work
+- Look into the axios interceptor for 428 api response
+
+September 13, 2023
+------------------
+- Add 428 redirect functionality to cluster-ui, kubedb-ui, selfhost-ui and billing-ui
+- Review work
+
+September 14, 2023
+------------------
+- Stash-ui review meeting
+- Cut tag in platoform, cluster, kubedb and billing ui
+
+September 15, 2023
+------------------
+- Stash-ui review meeting
+- Cut new tag for cluster-ui, kubedb-ui, learn-ui, platform-ui, billing-ui
+- Review and merge work
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+September 18, 2023
+------------------
+- Look into the 428 redirect issue for platform ui server side
+- Review and merge work
+
+September 19, 2023
+-------------------
+- Implement 428 redirect in platform-ui all the pages on user api call
+- Review work
+
+September 20, 2023
+------------------
+- Implement 428 redirect in learn-ui
+- Deploy u2f changes in appscode.ninja for testing
+- Review work
+
+September 21, 2023
+------------------
+- Start working on public cluster import, stop calling validate or info for ocm clusters
+- Review work
+
+September 22, 2023
+------------------
+- Cluster-ui: Plublic cluster import, stop calling validate or info api for ocm clusters
+- Review and merge work
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+September 25, 2023
+------------------
+- Read features from vaildate api in cluster-ui
+- Review work
+
+September 26, 2023
+------------------
+- Merge feature validate api branch with zubair eks branch for capi team
+- Fix patch api non namespaced resource issue
+- Review work
+
+September 27, 2023
+------------------
+- Remove feature set info api completely from cluster-ui
+- Review and merge work
+
+September 28, 2023
+------------------
+- Refactor feature set function js, remove redundant values from model for features that does not show up in ui
+- Cluster-ui validation api changes, move to different branch and merge
+- Review work
+
+September 29, 2023
+------------------
+- Review, merge and deploy work
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+October 02, 2023
+------------------
+- Work on feature set refactoring for cluster import flow in cluster-ui
+- Modify feature block style and status logics based on new feature set recommendation rule
+- Review work
+
+October 03, 2023
+----------------
+- Refactor feature set disable button, show dependencies in cluster-ui feature set settings
+- Fix import flow cluster select table error message in cluster-ui
+- Review and deploy work
+
+October 04, 2023
+----------------
+- Update nats.ws version to cluster-ui, kubedb-ui, platform-ui, billing-ui
+- Review work
+
+October 05, 2023
+----------------
+- Look into the feature set function js, initially selected features have wrong values in model
+- Review work and deploy work
+
+October 06, 2023
+----------------
+- Delegate the features set function js bug to riyad
+- Start looking into monaco editor schema validation
+- Fix release yamls and package json commands
+- Review work
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+October 09, 2023
+----------------
+- Platform engineering meeting
+- Monaco editor schema checker demo implementation
+- Review work
+
+October 10, 2023
+----------------
 -
