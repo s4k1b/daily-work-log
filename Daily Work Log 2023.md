@@ -1057,4 +1057,29 @@ October 09, 2023
 
 October 10, 2023
 ----------------
+- Monaco editor schema checker implementation
+- Review work
+
+October 11, 2023
+----------------
+- Monaco editor schema checker implementation
+- Review work
+
+October 12, 2023
+----------------
+- Call resource descriptor api from resource details page in cluster-ui and pass the schema to editor components
+- Try to read schema from props and use that for validation in editor component in design-system
+- Reivew and deploy work
+
+October 13, 2023
+----------------
+- Add schema validation in cluster resource mainfest page
+- Show warnings for editor validation errors
+- Review work
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+October 16, 2023
+----------------
 -
+
