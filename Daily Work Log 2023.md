@@ -1081,5 +1081,39 @@ October 13, 2023
 
 October 16, 2023
 ----------------
+- Work on schema validation in cluster-ui resource manifest page
+- Review work
+
+October 17, 2023
+----------------
+- Work on clearing previously set schema for validation in monaco editor
+- Review work
+
+October 18, 2023
+----------------
+- Work on clearing previously set schema for validation in monaco editor
+- Update all the uis from byte.builders to appscode.com
+- Review work
+
+October 19, 2023
+----------------
+- Add new monaco editor with schema validation in design system
+- Replace kubedb with db accross all the uis
+- Review work
+
+October 20, 2023
+----------------
+- Add user login logic and api call in appscode website
+- Review work
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+October 23, 2023
+----------------
+- Platform engineering meeting
+- Review design system prs accross uis
+
+October 24, 2023
+----------------
 -
 
