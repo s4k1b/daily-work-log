@@ -1113,7 +1113,25 @@ October 23, 2023
 - Platform engineering meeting
 - Review design system prs accross uis
 
-October 24, 2023
+October 25, 2023
+----------------
+- Merge design system changes in ui-builder, cluster-ui and platform-ui
+- Reiview work
+
+October 26, 2023
+----------------
+- Look into monaco editor validation issue if schema in the cdn is missing, validation should be off
+- Review resource calculator and enforce quota PR in cluster-ui
+- Review design system changes in kubedb-ui
+- Merge and publish platform-ui Samiul's user profile page changes
+
+October 17, 2023
+----------------
+- Look into monaco editor validation issue if schema in the cdn is missing, validation should be off
+- Review work
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+October 18, 2023
 ----------------
 -
-
