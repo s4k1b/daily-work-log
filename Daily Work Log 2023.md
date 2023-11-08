@@ -1125,13 +1125,55 @@ October 26, 2023
 - Review design system changes in kubedb-ui
 - Merge and publish platform-ui Samiul's user profile page changes
 
-October 17, 2023
+October 27, 2023
 ----------------
 - Look into monaco editor validation issue if schema in the cdn is missing, validation should be off
 - Review work
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-October 18, 2023
+October 30, 2023
 ----------------
+- Work on editor validation schema invalid url issue
+- Make knowledge transfer list
+- Review work
+
+October 31, 2023
+----------------
+- Work on model error when multiple editor instance is present
+- Add validation for schema uri for code editors
+- Review work
+
+November 01, 2023
+----------------
+- Knowledge transfer about ui-wizard and resource-metadata editors
+- Look intot the vault server create error for consul backend
+- Review work
+
+November 02, 2023
+-----------------
+- Fix vault server create page error for consul backend because of multiple editor appearing
+- Merge schema validation related changes in resource maninfest page in console
+- Review work
+
+November 03, 2023
+-----------------
+- Review and merge prs
+- Publish latest platoform-ui, cluster-ui, selfhost, and billing-ui
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+November 06, 2023
+------------------
+- Platform engineering meeting
+- Design system accent color chagne PR review and merge
+
+November 07, 2023
+-----------------
+- Meeting on docs
+- PR Review and Merge
+- Start working on basic outline for platform docs
+
+November 08, 2023
+-----------------
 -
