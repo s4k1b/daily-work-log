@@ -1176,4 +1176,23 @@ November 07, 2023
 
 November 08, 2023
 -----------------
+- Make basic outline for platform docs
+- Add makrdown files and paths to the docs-ui
+
+November 09, 2023
+-----------------
+- Add initial doc outline and markdown files in docs-ui
+- Deploy initial doc ui in dev and prod
+- Review work
+
+November 10, 2023
+-----------------
+- Docs-ui update vitepress to 1.0.0-rc.25
+- Update desing system to latest in docs-ui
+- Review work
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+November 13, 2023
+------------------
 -
