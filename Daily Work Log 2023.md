@@ -1195,4 +1195,32 @@ November 10, 2023
 
 November 13, 2023
 ------------------
+- Meeting regarding branding implementation
+- Work on theme composable and plugins in cluster-ui, desing-system and ui-modules
+- Review work
+
+November 14, 2023
+-----------------
+- Add theme composable and dynamic color feature to kubedb-ui and platform-ui
+- Review work
+
+November 15, 2023
+-----------------
+- Look into vitepress docs for generating sidebar links from folder structure
+- Start implementation custom way to generate sidebar data from folder and file structure in docs-ui
+
+November 16, 2023
+-----------------
+- Implement custom way to generate sidebar forest from doc folder structure
+- Review work
+
+November 17, 2023
+-----------------
+- Use build time dynamic data api in vite to generate sidebar forest from docs folder structure
+- Refactor the sidebar component to read from the generated data
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+November 20, 2023
+------------------
 -
