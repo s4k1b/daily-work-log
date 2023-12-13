@@ -1223,4 +1223,85 @@ November 17, 2023
 
 November 20, 2023
 ------------------
+- Platform planning meeting
+- Start working on docs home menu
+
+November 22, 2023
+-----------------
+- Work on docs-ui, ignore certain doc files starting with underscore
+- Review work
+
+November 23, 2023
+-----------------
+- Add feature to ignore files starting with underscore in docs-ui
+- Generate home menu from file and folder structure in docs-ui
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+November 27, 2023
+------------------
+- Review work
+- Work on adding top level seciton menu in docs-ui
+
+November 28, 2023
+-----------------
+- Add top level navbar menu via docs frontmatter in docs-ui
+- Review and mentoring
+
+November 29, 2023
+-----------------
+- Fix bugs related to navigation via top level menu
+- Review work
+
+November 30, 2023
+-----------------
+- Setup a base repository for doc component and configs
+- Review work
+
+December 1, 2023
+----------------
+- Setup docs-base dev environment
+- Use docs-base in docs-ui
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+December 04, 2023
+------------------
+- Platform engineering meeting
+- Work on resolving issues sharing docs-base with docs-ui
+
+December 05, 2023
+-----------------
+- Work on resolving issues sharing docs-base theme and config with docs-ui
+- Review work
+
+December 06, 2023
+-----------------
+- Resolve issues regarding sharing docs-base theme and config with docs-ui
+- Review work
+
+December 07, 2023
+-----------------
+- Look into the platform ui docker image issue
+- Resolve issue regarding sharing docs-base theme and config with docs-ui
+
+December 08, 2023
+-----------------
+- Add sidebar expand collapse logic in docs-base
+- Use config and theme form docs-base, remove local configs and themes in docs-ui
+- Update docs base, added sidebar expand collapse feature in docs-ui
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+December 11, 2023
+------------------
+- Work on product docs layout
+
+December 12, 2023
+-----------------
+- Fix appscode docs ui element repeating issue
+- Start working on index file generation
+
+December 13, 2023
+-----------------
 -
