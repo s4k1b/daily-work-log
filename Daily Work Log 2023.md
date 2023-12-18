@@ -1304,4 +1304,22 @@ December 12, 2023
 
 December 13, 2023
 -----------------
+- Add logic to generate search indexes at build time in docs-base
+- Add search index, get search feature working in docs
+
+December 14, 2023
+-----------------
+- Add docs search feature
+- Adding appscode style navbar
+
+December 15, 2023
+-----------------
+- Add docs navbar and appscode style navbar in docs
+- Clear search once an item in search result is clicked in docs-base
+- Review changes
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+December 18, 2023
+------------------
 -
