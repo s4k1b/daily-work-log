@@ -1322,4 +1322,31 @@ December 15, 2023
 
 December 18, 2023
 ------------------
+- Platform planning meeting
+- Work on dynamic appscode navbar from static-assets
+
+December 19, 2023
+-----------------
+- Work on dynamic appscode navbar from static-assets
+- Add design changes for navbar in docs-base
+
+December 20, 2023
+-----------------
+- Knowledge transfer about nats, long-running-tasks, notifications and terminals
+- Knowledge transfer about caching mechanics and implementation.
+
+December 21, 2023
+-----------------
+- Knowledge transfer about cluster-ui generic resource pages, layout, graph, events, render api calls
+- Knowledge transfer about docs ui and vitepress
+
+December 22, 2023
+-----------------
+- Generate Appscode navbar in docs-ui from appscode/static-assets
+- Work on appscode footer, generate product links from static-assets
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+December 27, 2023
+------------------
 -
