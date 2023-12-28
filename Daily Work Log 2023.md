@@ -1349,4 +1349,11 @@ December 22, 2023
 
 December 27, 2023
 ------------------
+- Add appscode footer, separate footer into components and show products links from static-assets in docs-base
+- Make resource megamenu links also dynamic from static-assets
+- Fix responsive design docs-sidebar, toc and search components
+- Knowledge transfer on cve-report and gatekeeper-report
+
+December 28, 2023
+-----------------
 -
