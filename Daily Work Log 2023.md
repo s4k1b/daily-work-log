@@ -1356,4 +1356,13 @@ December 27, 2023
 
 December 28, 2023
 -----------------
--
+- Product megamenu, render product tag line as html in docs
+- Fix some bugs, style and funcitonalities in docs-ui
+
+December 29, 2023
+-----------------
+- Cleanup unnecessary docs in docs-ui
+- Sign-off from Appscode
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
